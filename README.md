@@ -17,7 +17,7 @@ A Short Hike<h3 align="center">Unofficial German Translation 🇩🇪🍂</h3>
 
 This is the installation guide for the game version **1.4**. If you are on version 1.8 - 1.9 click [here](https://github.com/Fox-Network/ashorthike-translation-de/tree/v1.8-v1.9).
 
-1. Download the latest version of the translation under [Releases](https://github.com/Fox-Network/ashorthike-translation-de/releases/latest).
+1. Download the latest version of the translation under [Releases](https://raw.githubusercontent.com/Fox-Network/ashorthike-translation-de/76e24e032651169eba6478d097c40779843d49ba/MountainQuest.yarn.txt) with `right click > Save Page as...`.
 
 2. Download the latest Release of UABE wich can be found [here](https://github.com/SeriousCache/UABE).
 
