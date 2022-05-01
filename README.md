@@ -34,9 +34,9 @@ This repository contains the German translation project from Fox Network for the
 
 2. Follow the installation instructions on the  respective version page:
 
-- **[Version 1.8 - 1.9]()**
+- **[Version 1.8 - 1.9](https://github.com/Fox-Network/ashorthike-translation-de/tree/v1.8-v1.9)**
 
-- **[Version 1.4]()**
+- **[Version 1.4](https://github.com/Fox-Network/ashorthike-translation-de/tree/v1.4)**
 
 3. Have fun playing with our translation! 🍂
 
