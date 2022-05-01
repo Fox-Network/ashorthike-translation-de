@@ -8,7 +8,6 @@ A Short Hike<h3 align="center">Unofficial German Translation 🇩🇪🍂</h3>
 
 <p align="center">
 <a href="https://discord.fuly.network"><img src="https://discord.com/api/guilds/140214677257977856/widget.png?style=shield"></a>
-<a href="https://github.com/Fox-Network/ashorthike-translation-de/releases/latest"><img src="https://img.shields.io/github/v/release/Fox-Network/ashorthike-translation-de"></a>
 </p>
 
 > ⚠️ **DISCLAIMER**
