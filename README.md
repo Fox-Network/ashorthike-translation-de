@@ -44,7 +44,7 @@ This repository contains the German translation project from Fox Network for the
 Thanks for all the super delicious people for helping me on this project 💕:
 
 - [Flashi](https://www.youtube.com/c/flashiflasche)
-- SandwichFox (Discord: SandwichFox#3209)
+- [SandwichFox](https://sandwichfox.de)
 - [Pingu](https://www.youtube.com/channel/UCq9YqBjl373a2icwBNmj8zg)
 - [Leoko](https://github.com/DevLeoko)
 - [nessi.aep](https://www.youtube.com/channel/UCUsfi2q4pj1fbzreTlNTWdg)
