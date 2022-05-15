@@ -31,7 +31,7 @@ This repository contains the German translation project from Fox Network for the
 
 1. Open the game and go to `options > info > version`. Here you can see what version you current have.
 
-2. Follow the installation instructions on the  respective version page:
+2. Follow the installation instructions on the respective version page:
 
 - **[Version 1.8 - 1.9](https://github.com/Fox-Network/ashorthike-translation-de/tree/v1.8-v1.9)**
 
