@@ -3,8 +3,14 @@ name: Push dateupdate CI
 on:
   push:
     branches: [ v1.8-v1.9, v1.4 ]
+    paths:
+      - LANG_German.yarn_lines.csv
+      - MountainQuest.yarn.txt
   pull_request:
     branches: [ v1.8-v1.9, v1.4 ]
+    paths:
+      - LANG_German.yarn_lines.csv
+      - MountainQuest.yarn.txt
 
 jobs:
   push:
