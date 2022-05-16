@@ -24,7 +24,7 @@ This is the installation guide for the game version **1.4**. If you are on versi
 
 4. Now click on `File > Open` and go to your A Short Hike installation path.
 
-5. Go into the `AShortHike_Data` folder and open "sharedassets0.assets".
+5. Go into the `AShortHike_Data` folder and open `sharedassets0.assets`.
 
 6. Click on `View > Search` by name and type in the Query field `MountainQuest.yarn`.
 
@@ -34,6 +34,6 @@ This is the installation guide for the game version **1.4**. If you are on versi
 
 9. Click `OK`, then `Yes` and save the file on an empty space.
 
-10. Now you can close the program and just replace your saved file with the file named `sharedassets0.assets` in the AShortHike_Data folder.
+10. Now you can close the program and just replace your saved file with the file named `sharedassets0.assets` in the `AShortHike_Data` folder.
 
 11. Happy hiking! 🍂
