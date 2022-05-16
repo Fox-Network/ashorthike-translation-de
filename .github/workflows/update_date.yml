@@ -1,0 +1,31 @@
+name: Push dateupdate CI
+
+on:
+  push:
+    branches: [ v1.8-v1.9, v1.4 ]
+  pull_request:
+    branches: [ v1.8-v1.9, v1.4 ]
+
+jobs:
+  push:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: push date update on v1.8-v1.9
+        if: github.ref_name == "v1.8-v1.9"
+        run: |
+          curl --request POST \
+          --url 'https://api.github.com/repos/Fox-Network/ashorthike-download-page/dispatches' \
+          --header 'authorization: Bearer ${{ secrets.DATE_PAT }}' \
+          --data '{"event_type": "update_date_v1.8-v1.9"}'
+
+      - name: push date update on v1.4
+        if: github.ref_name == "v1.4"
+        run: |
+          curl --request POST \
+          --url 'https://api.github.com/repos/Fox-Network/ashorthike-download-page/dispatches' \
+          --header 'authorization: Bearer ${{ secrets.DATE_PAT }}' \
+          --data '{"event_type": "update_date_v1.4"}'
