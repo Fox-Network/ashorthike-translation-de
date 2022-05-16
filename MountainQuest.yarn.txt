@@ -946,7 +946,7 @@ position: 3946,-608
 <<SetSpeaker Original>>
 <<if $SoldHat is false>>
     <<set $KnowsAboutMerchHat to true>> 
-    wir haben nur einen hut übrig
+    wir haben nur noch einen hut übrig
     der kostet 100 münzen
     <<SetSpeaker Player>>
     <<ShowCollection Coin>>
