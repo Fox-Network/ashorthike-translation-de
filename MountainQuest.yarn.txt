@@ -1658,7 +1658,7 @@ position: 5086,-397
         -> kann ich deine schaufel ausleien?
             <<if $AskedForShovel is false>>
                 <<SetSpeaker Original>>
-                'tschuldigung, mann
+                'tschuldigung, man
                 ich brauch es für meine sandburgen
                 <<SetSpeaker Player>>
                 ist sie nicht ein bisschen zu groß dafür?
