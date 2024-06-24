@@ -3041,152 +3041,152 @@ line:cf39ad,versuch' es einfach noch einmal,just give it another shot,,Original,
 line:875a7f,und denke daran...,and remember...,,Original,FishTutWaterStart
 line:11686f,"sobald du den Fisch am Haken hast,","once you've hooked the fish,",,Original,FishTutWaterStart
 line:2bdc88,"<color=red>zieh' ihn zu dir mit <sprite name=""LStick"" tint=1></color>\nUND <color=red>tippe {{UseItemButton}}</color> um ihn einzuholen!",<color=red>pull back</color> AND <color=red>tap {{UseItemButton}}</color> to reel it in!,,Original,FishTutWaterStart
-IBait,Köder,Bait,Item name singular.,,
+IBait,[[M]]Köder,Bait,Item name singular.,,
 ISBait,Köder,Bait,Item name plural.,,
 IDBait,"Befestige einen Köder an deiner Angelrute
 um mehr Fische anzulocken.","Attach bait to your rod
 to attract more fish.",Item description.,,
-IBucket,Eimer,Bucket,Item name singular.,,
+IBucket,[[M]]Eimer,Bucket,Item name singular.,,
 ISBucket,Eimer,Buckets,Item name plural.,,
 IDBucket,"Zum Aufbewahren von Flüssigkeiten.
 Drücke <color=red>{{UseItemButton}}</color> zum Schöpfen oder Gießen.","A perfect bucket for holding liquids.
 Press <color=red>{{UseItemButton}}</color> to scoop or pour.",Item description.,,
-ICampingPermit,Kampiergenehmigung,Camping Permit,Item name singular.,,
+ICampingPermit,[[F]]Kampiergenehmigung,Camping Permit,Item name singular.,,
 ISCampingPermit,Kampiergenehmigungen,Camping Permits,Item name plural.,,
 IDCampingPermit,"Sie ermöglicht dir über Nacht im Park zu kampieren.
 Darauf steht ""HALTE SIE IMMER BEREIT!""","It allows you to camp overnight at the park.
 It says ""KEEP ON HAND AT ALL TIMES!""",Item description.,,
-ICellphone,Handy,Cellphone,Item name singular.,,
+ICellphone,[[M]]Handy,Cellphone,Item name singular.,,
 ISCellphone,Handys,Cellphones,Item name plural.,,
 IDCellphone,"Ohne Handyempfang ist es nutzlos.
 Nicht einmal die Spiele funktionieren offline.","It's useless without reception.
 Not even the games work offline.",Item description.,,
-ICoin,Münze,Coin,Item name singular.,,
+ICoin,[[F]]Münze,Coin,Item name singular.,,
 ISCoin,Münzen,Coins,Item name plural.,,
 IDCoin,"Es ist Geld!
 Super um einzukaufen und sich abgesichert zu fühlen.","It's money!
 Great for buying stuff and feeling secure.",Item description.,,
-ICompass,Kompass,Compass,Item name singular.,,
+ICompass,[[M]]Kompass,Compass,Item name singular.,,
 ISCompass,Kompasse,Compasses,Item name plural.,,
 IDCompass,"Zeigt dir welcher Weg nach Norden führt.
 Zum Ein- und Ausschalten einfach auswählen.","Tells you which way is north.
 Select to toggle on or off.",Item description.,,
-IFish,Fisch,Fish,Item name singular.,,
+IFish,[[M]]Fisch,Fish,Item name singular.,,
 ISFish,Fische,Fish,Item name plural.,,
 IDFish,"Ich habe sie selbst gefangen!
 Was mache ich jetzt mit ihnen?","I caught 'em myself!
 Now what do I do with them?",Item description.,,
-IFishEncyclopedia,Fischjournal,Fish Journal,Item name singular.,,
+IFishEncyclopedia,[[M]]Fischjournal,Fish Journal,Item name singular.,,
 ISFishEncyclopedia,Fischjournale,Fish Journals,Item name plural.,,
 IDFishEncyclopedia,"Ein Journal jener Fische die ich
 gefangen habe und noch fangen muss.","A journal of the fish I have
 caught and have yet to catch.",Item description.,,
-IFishingRod,Angelrute,Fishing Rod,Item name singular.,,
+IFishingRod,[[F]]Angelrute,Fishing Rod,Item name singular.,,
 ISFishingRod,Angelruten,Fishing Rods,Item name plural.,,
 IDFishingRod,"Drücke <color=red>{{UseItemButton}}</color> zum Auswerfen. Wenn der Schwimmer
 hinuntergezogen wird, drücke <color=red>{{UseItemButton}}</color> zum Einholen!","Press <color=red>{{UseItemButton}}</color> to cast. When the bobber is pulled
 underwater, press <color=red>{{UseItemButton}}</color> to pull it out!",Item description.,,
-IGoldenFeather,Goldene Feder,Golden Feather,Item name singular.,,
+IGoldenFeather,[[F]]Goldene Feder,Golden Feather,Item name singular.,,
 ISGoldenFeather,Goldene Federn,Golden Feathers,Item name plural.,,
 IDGoldenFeather,"Drücke <color=red>{{JumpButton}}</color> in der Luft um zu springen.
 Halte <color=red>{{JumpButton}}</color> gegen eine Wand gedrückt um zu klettern.","Press <color=red>{{JumpButton}}</color> when in midair to jump.
 Hold <color=red>{{JumpButton}}</color> when facing a wall to climb.",Item description.,,
-IGoldenFishingRod,Goldene Angelrute,Golden Rod,Item name singular.,,
+IGoldenFishingRod,[[F]]Goldene Angelrute,Golden Rod,Item name singular.,,
 ISGoldenFishingRod,Goldene Angelruten,Golden Rods,Item name plural.,,
 IDGoldenFishingRod,"Eine Angelrute die anscheinend aus Gold besteht.
 Seltene Fische scheinen von ihr magisch angezogen
 zu werden.","A fishing rod that's apparently made of gold.
 Rare fish seem to be strangely drawn to it.",Item description.,,
-IHeadband,Stirnband,Headband,Item name singular.,,
+IHeadband,[[M]]Stirnband,Headband,Item name singular.,,
 ISHeadband,Stirnbänder,Headbands,Item name plural.,,
 IDHeadband,"Es ist das Stirnband der Schildkröte.
 Schaut sportlich aus.","It's the turtle's headband.
 Looks sporty.",Item description.,,
-IHighRes,Handy,Cellphone,Item name singular.,,
+IHighRes,[[M]]Handy,Cellphone,Item name singular.,,
 ISHighRes,Handys,Cellphones,Item name plural.,,
 IDHighRes,"Ohne Handyempfang ist es nutzlos.
 Nicht einmal die Spiele funktionieren offline.","It's useless without reception.
 Not even the games work offline.",Item description.,,
-IKidHat,Baseballkappe,Baseball Cap,Item name singular.,,
+IKidHat,[[F]]Baseballkappe,Baseball Cap,Item name singular.,,
 ISKidHat,Baseballkappen,Baseball Caps,Item name plural.,,
 IDKidHat,"Zur Erinnerung an den Tag an dem ich
 30 Punkte im Strandsteckenball erreicht habe.","To commemorate that time I
 got 30 points in Beachstickball.",Item description.,,
-IMedal,Medaille,Medal,Item name singular.,,
+IMedal,[[F]]Medaille,Medal,Item name singular.,,
 ISMedal,Medaillen,Medals,Item name plural.,,
 IDMedal,"Eine extrem nach Handarbeit aussehende Medaille.
 Für den Sieg in einem intensiven Parkour-Rennen.","An extremely homemade looking medal.
 Awarded for winning an intense parkour race.",Item description.,,
-IParkHat,Provinzparkhut,Provincial Park Hat,Item name singular.,,
+IParkHat,[[M]]Provinzparkhut,Provincial Park Hat,Item name singular.,,
 ISParkHat,Provinzparkhüte,Provincial Park Hats,Item name plural.,,
 IDParkHat,"Stilvoll und praktisch!
 Es steht ""Unterstützt unsere Provinzparks!"" drauf.","Stylish and practical!
 It says ""Support Our Provincial Parks!"" on it.",Item description.,,
-IPickaxe,Spitzhacke,Pickaxe,Item name singular.,,
+IPickaxe,[[F]]Spitzhacke,Pickaxe,Item name singular.,,
 ISPickaxe,Spitzhacken,Pickaxes,Item name plural.,,
 IDPickaxe,"Eine robuste Spitzhacke.
 Sie könnte vielleicht Sachen zerstören.","A sturdy pickaxe.
 It might be able to break things.",Item description.,,
-IRunningShoes,Laufschuhpaar,Running Shoes,Item name singular.,,
+IRunningShoes,[[M]]Laufschuhpaar,Running Shoes,Item name singular.,,
 ISRunningShoes,Laufschuhpaare,Pairs of Running Shoes,Item name plural.,,
 IDRunningShoes,"Entfessle die Läuferin in dir!
 Halte <color=red>{{RunButton}}</color> gedrückt um zu rennen.","Unleash your inner speed!
 Hold <color=red>{{RunButton}}</color> to run.",Item description.,,
-IShell,Muschel,Shell,Item name singular.,,
+IShell,[[F]]Muschel,Shell,Item name singular.,,
 ISShell,Muscheln,Shells,Item name plural.,,
 IDShell,"Sie funkeln in der Sonne,
 sind sonst aber ziemlich langweilig.","It sparkles in the sun,
 but is otherwise pretty boring.",Item description.,,
-IShellNecklace,Muschelkette,Shell Necklace,Item name singular.,,
+IShellNecklace,[[F]]Muschelkette,Shell Necklace,Item name singular.,,
 ISShellNecklace,Muschelketten,Shell Necklaces,Item name plural.,,
 IDShellNecklace,"Es ist eine hübsche Muschelkette.
 Ich soll sie zu Tante May bringen.","It's a pretty shell necklace. I'm
 supposed to deliver this to Aunt May.",Item description.,,
-IShovel,Schaufel,Shovel,Item name singular.,,
+IShovel,[[F]]Schaufel,Shovel,Item name singular.,,
 ISShovel,Schaufeln,Shovels,Item name plural.,,
 IDShovel,"Was ist in der Erde begraben?
 Drücke <color=red>{{UseItemButton}}</color> um zu schaufeln!","What's buried beneath?
 Press <color=red>{{UseItemButton}}</color> to dig!",Item description.,,
-ISilverFeather,Silberne Feder,Silver Feather,Item name singular.,,
+ISilverFeather,[[F]]Silberne Feder,Silver Feather,Item name singular.,,
 ISSilverFeather,Silberne Federn,Silver Feathers,Item name plural.,,
 IDSilverFeather,"Sie ist weich und leichter als Luft.
 Du kannst schneller klettern und höher fliegen!","It's soft and lighter than air.
 You can climb faster and fly higher!",Item description.,,
-IStick,Stecken,Stick,Item name singular.,,
+IStick,[[M]]Stecken,Stick,Item name singular.,,
 ISStick,Stecken,Sticks,Item name plural.,,
 IDStick,"Ein Stecken aus Holz.
 Keine Ahnung warum ich ihn aufgehoben habe.","A wooden stick.
 Not sure why I picked this up.",Item description.,,
-ISunhat,Sonnenhut,Sunhat,Item name singular.,,
+ISunhat,[[M]]Sonnenhut,Sunhat,Item name singular.,,
 ISSunhat,Sonnenhüte,Sunhats,Item name plural.,,
 IDSunhat,"Ein großer labbriger Sonnenhut.
 Er schützt dich vor der Hitze und ist
 unglaublich stilsicher.","A big floppy sunhat. It protects against the
 heat and is stylish like you wouldn't believe.",Item description.,,
-IToast,Toast,Toast,Item name singular.,,
+IToast,[[M]]Toast,Toast,Item name singular.,,
 ISToast,Toasts,Toasts,Item name plural.,,
 IDToast,"Yeah, toast!
 Es ist sogar leicht gebuttert.","Yeah, toast!
 It's even lightly buttered.",Item description.,,
-IToyShovel,Spielzeugschaufel,Toy Shovel,Item name singular.,,
+IToyShovel,[[F]]Spielzeugschaufel,Toy Shovel,Item name singular.,,
 ISToyShovel,Spielzeugschaufeln,Toy Shovels,Item name plural.,,
 IDToyShovel,"Eine süße kleine Spielzeugschaufel!
 Sie ist zu klein um für mich von Nutzen zu sein.","A cute little toy shovel!
 It's too small to be useful to me.",Item description.,,
-ITrash,Stück Müll,Piece of Trash,Item name singular.,,
+ITrash,[[M]]Stück Müll,Piece of Trash,Item name singular.,,
 ISTrash,mehrere Stücke Müll,Pieces of Trash,Item name plural.,,
 IDTrash,Müll der achtlos zurückgelassen wurde...,A piece of garbage carelessly left behind...,Item description.,,
-ITreasureMap,Schatzkarte,Treasure Map,Item name singular.,,
+ITreasureMap,[[F]]Schatzkarte,Treasure Map,Item name singular.,,
 ISTreasureMap,Schatzkarten,Treasure Maps,Item name plural.,,
 IDTreasureMap,"Es sind mehr eine Reihe
 von Rätseln als Karten...","It's less of a map and more of
 a bunch of riddles...",Item description.,,
-IWalkieTalkie,Funkgerät,Walkie Talkie,Item name singular.,,
+IWalkieTalkie,[[M]]Funkgerät,Walkie Talkie,Item name singular.,,
 ISWalkieTalkie,Funkgeräte,Walkie Talkies,Item name plural.,,
 IDWalkieTalkie,"Ein alter Vorläufer der Handys.
 Benutze es um Avery zu kontaktieren!","An ancient incarnation of the cellphone.
 Use this to contact Avery!",Item description.,,
-IWatch,Armbanduhr,Wristwatch,Item name singular.,,
+IWatch,[[F]]Armbanduhr,Wristwatch,Item name singular.,,
 ISWatch,Armbanduhren,Wristwatches,Item name plural.,,
 IDWatch,"Sie hat ein digitales und ein analoges Display und
 auf der Rückseite steht eine Telefonnummer.","It's got a digital and analog display, and
@@ -3424,7 +3424,8 @@ adam robinson-yu",,,
 open3,"<color=#A9A998>mit Musik von</color>
 Mark Sparling","<color=#A9A998>with music by</color>
 mark sparling",,,
-foundItemBefore,Du hast ein(e(n)),You found a,,,
+foundItemBefore,Du hast ein(en),You found a,,,
+[[F]]foundItemBefore,Du hast eine,You found a,,,
 foundItemAfter,gefunden!,,"Optional text after ""You found a""",,
 fishCatchBefore,Du hast einen,you caught a,,,
 [[F]]fishCatchBefore,Du hast ein,you caught a,,,
@@ -4131,12 +4132,12 @@ line:0755b8,Jetzt weißt du es! Du hast heute\ntatsächlich etwas Neues gelernt!
 line:e96bd9,...,...,,Player,OrangeIslandsInfoStart
 line:0eaeb5,ich fühle mich,i feel,,Player,OrangeIslandsInfoStart
 line:fdca08,irgendwie bevormundet,patronized somehow,,Player,OrangeIslandsInfoStart
-IBoatKey,Motorbootschlüssel,Motorboat Key,,,
+IBoatKey,[[M]]Motorbootschlüssel,Motorboat Key,,,
 ISBoatKey,Motorbootschlüssel,Motorboat Keys,,,
 IDBoatKey,"Der Schlüssel zum Motorboot.
 Der gehört mir für den Rest des Tages!","The key to the motorboat.
 It's mine for the rest of the day!",,,
-IBoatManual,Motorbootbetriebsanleitung,Boating Manual,,,
+IBoatManual,[[F]]Motorbootbetriebsanleitung,Boating Manual,,,
 ISBoatManual,Motorbootbetriebsanleitungen,Boating Manuals,,,
 IDBoatManual,"Die provinzielle Sicherheits- und Betriebsanleitung
 für Motorboote. Sie ist ein wenig lang...","The provincial motorboating safety and
