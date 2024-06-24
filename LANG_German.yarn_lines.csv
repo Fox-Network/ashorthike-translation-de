@@ -2210,60 +2210,90 @@ line:92032c,also,so,so,Original,BuyFishAction
 line:dd66ae,ja,yeah,yeah,Original,BuyFishAction
 line:b9163e,verlier' sie nicht!,don't lose it!,don't lose it!,Original,BuyFishAction
 line:c74434,das werde ich nicht!,i won't!,i won't!,Player,BuyFishAction
-line:b56f2a,"der/die {{FishName}}, eh?","the {{FishName}}, eh?","the {{FishName}}, eh?",Original,BuyFishQuip
-line:97bebb,ich gebe dir {{FishPrice}} Münzen für den/die,i'll give you {{FishPrice}} for it,i'll give you {{FishPrice}} for it,Original,BuyFishQuip
+line:b56f2a,"der {{FishName}}, eh?","the {{FishName}}, eh?","the {{FishName}}, eh?",Original,BuyFishQuip
+[[F]]line:b56f2a,"die {{FishName}}, eh?","the {{FishName}}, eh?","the {{FishName}}, eh?",Original,BuyFishQuip
+line:97bebb,ich gebe dir {{FishPrice}} Münzen für den,i'll give you {{FishPrice}} for it,i'll give you {{FishPrice}} for it,Original,BuyFishQuip
+[[F]]line:97bebb,ich gebe dir {{FishPrice}} Münzen für die,i'll give you {{FishPrice}} for it,i'll give you {{FishPrice}} for it,Original,BuyFishQuip
 line:894a90,schau dir den mal an!,would you look at that!,would you look at that!,Original,BuyFishQuip
-line:07d9c0,der/die {{FishName}}!,the {{FishName}}!,the {{FishName}}!,Original,BuyFishQuip
-line:88a69a,für den/die kann ich dir {{FishPrice}} Münzen geben,i can give you {{FishPrice}} for it,i can give you {{FishPrice}} for it,Original,BuyFishQuip
+[[F]]line:894a90,schau dir die mal an!,would you look at that!,would you look at that!,Original,BuyFishQuip
+line:07d9c0,der {{FishName}}!,the {{FishName}}!,the {{FishName}}!,Original,BuyFishQuip
+[[F]]line:07d9c0,die {{FishName}}!,the {{FishName}}!,the {{FishName}}!,Original,BuyFishQuip
+line:88a69a,für den kann ich dir {{FishPrice}} Münzen geben,i can give you {{FishPrice}} for it,i can give you {{FishPrice}} for it,Original,BuyFishQuip
+[[F]]line:88a69a,für die kann ich dir {{FishPrice}} Münzen geben,i can give you {{FishPrice}} for it,i can give you {{FishPrice}} for it,Original,BuyFishQuip
 line:8b666f,guter Fang,nice catch,nice catch,Original,BuyFishQuip
-line:fd1bc1,der/die {{FishName}} ist einer\nmeiner persönlichen Favoriten,the {{FishName}} is a\npersonal favourite of mine,the {{FishName}} is a\npersonal favourite of mine,Original,BuyFishQuip
-line:e586e5,ich geb' dir {{FishPrice}} Münzen für ihn/sie,i'll trade you {{FishPrice}} coins for it,i'll trade you {{FishPrice}} coins for it,Original,BuyFishQuip
+line:fd1bc1,der {{FishName}} ist einer\nmeiner persönlichen Favoriten,the {{FishName}} is a\npersonal favourite of mine,the {{FishName}} is a\npersonal favourite of mine,Original,BuyFishQuip
+[[F]]line:fd1bc1,die {{FishName}} ist einer\nmeiner persönlichen Favoriten,the {{FishName}} is a\npersonal favourite of mine,the {{FishName}} is a\npersonal favourite of mine,Original,BuyFishQuip
+line:e586e5,ich geb' dir {{FishPrice}} Münzen für ihn,i'll trade you {{FishPrice}} coins for it,i'll trade you {{FishPrice}} coins for it,Original,BuyFishQuip
+[[F]]line:e586e5,ich geb' dir {{FishPrice}} Münzen für sie,i'll trade you {{FishPrice}} coins for it,i'll trade you {{FishPrice}} coins for it,Original,BuyFishQuip
 line:7b947d,gut gemacht!,good one!,good one!,Original,BuyFishQuip
-line:afa6f1,der/die {{FishName}} ist mir schon\neine Zeit lang ausgewichen,the {{FishName}} has\nevaded me for a while,the {{FishName}} has\nevaded me for a while,Original,BuyFishQuip
+line:afa6f1,der {{FishName}} ist mir schon\neine Zeit lang ausgewichen,the {{FishName}} has\nevaded me for a while,the {{FishName}} has\nevaded me for a while,Original,BuyFishQuip
+[[F]]line:afa6f1,die {{FishName}} ist mir schon\neine Zeit lang ausgewichen,the {{FishName}} has\nevaded me for a while,the {{FishName}} has\nevaded me for a while,Original,BuyFishQuip
 line:85a662,aber jetzt nicht mehr!,but no longer!,but no longer!,Original,BuyFishQuip
-line:33eb67,ich gebe dir {{FishPrice}} Münzen für ihn/sie,i'll give you {{FishPrice}} for it,i'll give you {{FishPrice}} for it,Original,BuyFishQuip
-line:4b40dd,der/die {{FishName}}...,the {{FishName}}...,the {{FishName}}...,Original,BuyFishQuip
-line:0f5fd0,bin nicht so ein Fan von ihm/ihr,not a fan of this one,not a fan of this one,Original,BuyFishQuip
-line:34830c,hat mich einmal gebissen!,bit me once!,bit me once!,Original,BuyFishQuip
-line:5182f6,aber ich suche trotzdem nach ihm/ihr!,but i'm still looking for it!,but i'm still looking for it!,Original,BuyFishQuip
+line:33eb67,ich gebe dir {{FishPrice}} Münzen für ihn,i'll give you {{FishPrice}} for it,i'll give you {{FishPrice}} for it,Original,BuyFishQuip
+[[F]]line:33eb67,ich gebe dir {{FishPrice}} Münzen für sie,i'll give you {{FishPrice}} for it,i'll give you {{FishPrice}} for it,Original,BuyFishQuip
+line:4b40dd,der {{FishName}}...,the {{FishName}}...,the {{FishName}}...,Original,BuyFishQuip
+[[F]]line:4b40dd,die {{FishName}}...,the {{FishName}}...,the {{FishName}}...,Original,BuyFishQuip
+line:0f5fd0,bin nicht so ein Fan von ihm,not a fan of this one,not a fan of this one,Original,BuyFishQuip
+[[F]]line:0f5fd0,bin nicht so ein Fan von ihr,not a fan of this one,not a fan of this one,Original,BuyFishQuip
+line:34830c,der hat mich einmal gebissen!,bit me once!,bit me once!,Original,BuyFishQuip
+[F]line:34830c,die hat mich einmal gebissen!,bit me once!,bit me once!,Original,BuyFishQuip
+line:5182f6,aber ich suche trotzdem nach ihm!,but i'm still looking for it!,but i'm still looking for it!,Original,BuyFishQuip
+[[F]]line:5182f6,aber ich suche trotzdem nach ihr!,but i'm still looking for it!,but i'm still looking for it!,Original,BuyFishQuip
 line:a781ea,ich gebe dir {{FishPrice}} Münzen,i'll give you {{FishPrice}} coin,i'll give you {{FishPrice}} coin,Original,BuyFishQuip
-line:b000f2,ah der/die {{FishName}},ah the {{FishName}},ah the {{FishName}},Original,BuyFishQuip
-line:94362f,diese(r) hier ist sehr\nbeliebt auf der Falkenspitzeninsel,this one is popular here at hawk peak,this one is popular here at hawk peak,Original,BuyFishQuip
+line:b000f2,ah der {{FishName}},ah the {{FishName}},ah the {{FishName}},Original,BuyFishQuip
+[[F]]line:b000f2,ah die {{FishName}},ah the {{FishName}},ah the {{FishName}},Original,BuyFishQuip
+line:94362f,dieser hier ist sehr\nbeliebt auf der Falkenspitzeninsel,this one is popular here at hawk peak,this one is popular here at hawk peak,Original,BuyFishQuip
+[[F]]line:94362f,diese hier ist sehr\nbeliebt auf der Falkenspitzeninsel,this one is popular here at hawk peak,this one is popular here at hawk peak,Original,BuyFishQuip
 line:3f17f4,ich gebe dir...,i'll give you...,i'll give you...,Original,BuyFishQuip
-line:be6b8e,...{{FishPrice}} Münzen für ihn/sie,...{{FishPrice}} coins for it,...{{FishPrice}} coins for it,Original,BuyFishQuip
-line:b983f1,der/die {{FishName}},the {{FishName}},the {{FishName}},Original,BuyFishQuip
+line:be6b8e,...{{FishPrice}} Münzen für ihn,...{{FishPrice}} coins for it,...{{FishPrice}} coins for it,Original,BuyFishQuip
+[[F]]line:be6b8e,...{{FishPrice}} Münzen für sie,...{{FishPrice}} coins for it,...{{FishPrice}} coins for it,Original,BuyFishQuip
+line:b983f1,der {{FishName}},the {{FishName}},the {{FishName}},Original,BuyFishQuip
+[[F]]line:b983f1,die {{FishName}},the {{FishName}},the {{FishName}},Original,BuyFishQuip
 line:53d466,hmm,hmm,hmm,Original,BuyFishQuip
 line:09a6c0,ich glaube {{FishPrice}} Münzen\nsind ein fairers Angebot,i think {{FishPrice}} coins\nseems like a fair price,i think {{FishPrice}} coins\nseems like a fair price,Original,BuyFishQuip
 line:af44d3,warte mal...,now hold on...,now hold on...,Original,BuyRareFishQuip
 line:68b8f5,was ist DAS?!,what is THIS?!,what is THIS?!,Original,BuyRareFishQuip
-line:3932c2,der/die seltene {{FishName}}?!?,the rare {{FishName}}?!?,the rare {{FishName}}?!?,Original,BuyRareFishQuip
+line:3932c2,der seltene {{FishName}}?!?,the rare {{FishName}}?!?,the rare {{FishName}}?!?,Original,BuyRareFishQuip
+[[F]]line:3932c2,die seltene {{FishName}}?!?,the rare {{FishName}}?!?,the rare {{FishName}}?!?,Original,BuyRareFishQuip
 line:33b39b,das ist ja ein mächtiger Fang!,that's a mighty catch right there!,that's a mighty catch right there!,Original,BuyRareFishQuip
-line:4b6053,ich zahl' dir {{FishPrice}} Münzen für ihn/sie!,i'll pay ya {{FishPrice}} coins for it!,i'll pay ya {{FishPrice}} coins for it!,Original,BuyRareFishQuip
+line:4b6053,ich zahl' dir {{FishPrice}} Münzen für ihn!,i'll pay ya {{FishPrice}} coins for it!,i'll pay ya {{FishPrice}} coins for it!,Original,BuyRareFishQuip
+[[F]]line:4b6053,ich zahl' dir {{FishPrice}} Münzen für sie!,i'll pay ya {{FishPrice}} coins for it!,i'll pay ya {{FishPrice}} coins for it!,Original,BuyRareFishQuip
 line:92a95e,"...nun, was ist das?","...now, what is this?","...now, what is this?",Original,BuyRareFishQuip
 line:57c68d,diesen erkenne ich nicht,i don't recognize this one,i don't recognize this one,Original,BuyRareFishQuip
+[F]line:57c68d,diese erkenne ich nicht,i don't recognize this one,i don't recognize this one,Original,BuyRareFishQuip
 line:628f42,...,...,...,Original,BuyRareFishQuip
-line:64082f,ist das der/die {{FishName}}?,is that the {{FishName}}?,is that the {{FishName}}?,Original,BuyRareFishQuip
+line:64082f,ist das der {{FishName}}?,is that the {{FishName}}?,is that the {{FishName}}?,Original,BuyRareFishQuip
+[[F]]line:64082f,ist das die {{FishName}}?,is that the {{FishName}}?,is that the {{FishName}}?,Original,BuyRareFishQuip
 line:318344,das ist ein seltener Fang!,that's a rare find!,that's a rare find!,Original,BuyRareFishQuip
-line:55326e,"ich gebe dir {{FishPrice}} Münzen,\ndamit ich den/die zu meiner Sammlung\nhinzufügen kann!",i'll give you {{FishPrice}} to add\nit to my collection!,i'll give you {{FishPrice}} to add\nit to my collection!,Original,BuyRareFishQuip
+line:55326e,"ich gebe dir {{FishPrice}} Münzen,\ndamit ich den zu meiner Sammlung\nhinzufügen kann!",i'll give you {{FishPrice}} to add\nit to my collection!,i'll give you {{FishPrice}} to add\nit to my collection!,Original,BuyRareFishQuip
+[[F]]line:55326e,"ich gebe dir {{FishPrice}} Münzen,\ndamit ich die zu meiner Sammlung\nhinzufügen kann!",i'll give you {{FishPrice}} to add\nit to my collection!,i'll give you {{FishPrice}} to add\nit to my collection!,Original,BuyRareFishQuip
 line:6a3b6c,du willst mich wohl veräppeln,you've GOT to be kidding me,you've GOT to be kidding me,Original,BuyRareFishQuip
-line:649c04,du hast es geschafft eine(n)\n{{FishName}} zu fangen!?,you netted the {{FishName}}!?,you netted the {{FishName}}!?,Original,BuyRareFishQuip
+line:649c04,du hast es geschafft einen\n{{FishName}} zu fangen!?,you netted the {{FishName}}!?,you netted the {{FishName}}!?,Original,BuyRareFishQuip
+[[F]]line:649c04,du hast es geschafft eine\n{{FishName}} zu fangen!?,you netted the {{FishName}}!?,you netted the {{FishName}}!?,Original,BuyRareFishQuip
 line:f4fe1c,so was aber auch!,gosh dang it!,gosh dang it!,Original,BuyRareFishQuip
 line:7ba8b6,du hast wirklich ein\nHändchen fürs Angeln!,you've really got\na knack for fishing!,you've really got\na knack for fishing!,Original,BuyRareFishQuip
 line:30fc6c,ich weiß nicht so ganz!,i dunno about that!,i dunno about that!,Player,BuyRareFishQuip
 line:fe0468,tja,welp,welp,Original,BuyRareFishQuip
-line:c9145d,für den/die muss ich dir mindestens\n{{FishPrice}} Münzen geben!,i gotta give you at\nleast {{FishPrice}} coins for this!,i gotta give you at\nleast {{FishPrice}} coins for this!,Original,BuyRareFishQuip
+line:c9145d,für den muss ich dir mindestens\n{{FishPrice}} Münzen geben!,i gotta give you at\nleast {{FishPrice}} coins for this!,i gotta give you at\nleast {{FishPrice}} coins for this!,Original,BuyRareFishQuip
+[[F]]line:c9145d,für die muss ich dir mindestens\n{{FishPrice}} Münzen geben!,i gotta give you at\nleast {{FishPrice}} coins for this!,i gotta give you at\nleast {{FishPrice}} coins for this!,Original,BuyRareFishQuip
 line:dd00eb,WAS ZUM TEUFEL?!,WHAT THE HECKY?!,WHAT THE HECKY?!,Original,BuyRareFishQuip
 line:167408,Claire,claire,claire,Original,BuyRareFishQuip
 line:e73033,du bist eine Angellegende!,you're a fishing legend!,you're a fishing legend!,Original,BuyRareFishQuip
-line:95aed6,der/die {{FishName}}\nist ein komplizierter Fang!,the {{FishName}}\nis one TRICKY catch!,the {{FishName}}\nis one TRICKY catch!,Original,BuyRareFishQuip
-line:0cee57,ich werde dir\n{{FishPrice}} Münzen für ihn/sie geben!,i'll be givin' you\n{{FishPrice}} coin for that!,i'll be givin' you\n{{FishPrice}} coin for that!,Original,BuyRareFishQuip
+line:95aed6,der {{FishName}}\nist ein komplizierter Fang!,the {{FishName}}\nis one TRICKY catch!,the {{FishName}}\nis one TRICKY catch!,Original,BuyRareFishQuip
+[[F]]line:95aed6,die {{FishName}}\nist ein komplizierter Fang!,the {{FishName}}\nis one TRICKY catch!,the {{FishName}}\nis one TRICKY catch!,Original,BuyRareFishQuip
+line:0cee57,ich werde dir\n{{FishPrice}} Münzen für ihn geben!,i'll be givin' you\n{{FishPrice}} coin for that!,i'll be givin' you\n{{FishPrice}} coin for that!,Original,BuyRareFishQuip
+[[F]]line:0cee57,ich werde dir\n{{FishPrice}} Münzen für sie geben!,i'll be givin' you\n{{FishPrice}} coin for that!,i'll be givin' you\n{{FishPrice}} coin for that!,Original,BuyRareFishQuip
 line:11948d,"ich glaube, mich laust der Affe!",well i'll be!,well i'll be!,Original,BuyRareFishQuip
-line:80ebac,der/die {{FishName}} huh?,the {{FishName}} huh?,the {{FishName}} huh?,Original,BuyRareFishQuip
+line:80ebac,der {{FishName}} huh?,the {{FishName}} huh?,the {{FishName}} huh?,Original,BuyRareFishQuip
+[[F]]line:80ebac,die {{FishName}} huh?,the {{FishName}} huh?,the {{FishName}} huh?,Original,BuyRareFishQuip
 line:c4e192,das weckt Erinnerungen,we go way back,we go way back,Original,BuyRareFishQuip
 line:ea1733,das letzte Mal als ich diesen Kerl gesehen habe\nwar vor ganzen FÜNF jahren!,the last time i saw this guy\nwas almost FIVE whole years ago!,the last time i saw this guy\nwas almost FIVE whole years ago!,Original,BuyRareFishQuip
+[[F]]line:ea1733,das letzte Mal als ich diese Dame gesehen habe\nwar vor ganzen FÜNF jahren!,the last time i saw this guy\nwas almost FIVE whole years ago!,the last time i saw this guy\nwas almost FIVE whole years ago!,Original,BuyRareFishQuip
 line:e2023a,"du siehst,","ya see,","ya see,",Original,BuyRareFishQuip
-line:49307f,ich hatte ihn/sie am Haken,i had it on the hook,i had it on the hook,Original,BuyRareFishQuip
-line:79fe4a,er/sie zog wirklich stark an der Leine,it was givin' a real strong tug,it was givin' a real strong tug,Original,BuyRareFishQuip
+line:49307f,ich hatte ihn am Haken,i had it on the hook,i had it on the hook,Original,BuyRareFishQuip
+[[F]]line:49307f,ich hatte sie am Haken,i had it on the hook,i had it on the hook,Original,BuyRareFishQuip
+line:79fe4a,er zog wirklich stark an der Leine,it was givin' a real strong tug,it was givin' a real strong tug,Original,BuyRareFishQuip
+[[F]]line:79fe4a,sie zog wirklich stark an der Leine,it was givin' a real strong tug,it was givin' a real strong tug,Original,BuyRareFishQuip
 line:08d8a6,und ich meine,and i mean,and i mean,Original,BuyRareFishQuip
 line:fbeb38,was dieser Fisch für Muskeln hat,like this fish-,like this fish-,Original,BuyRareFishQuip
 line:43ea55,kannst du dir nicht vorstellen!,has got muscles like\nyou wouldn't believe!,has got muscles like\nyou wouldn't believe!,Original,BuyRareFishQuip
@@ -2272,12 +2302,17 @@ line:5894ed,nicht möglich!,no way!,no way!,Player,BuyRareFishQuip
 line:1feda5,doch möglich!,yeah way!,yeah way!,Original,BuyRareFishQuip
 line:5233ac,wie auch immer...,anyway...,anyway...,Original,BuyRareFishQuip
 line:c96826,ich gebe dir {{FishPrice}}\nMünzen für diesen hier!,i gotta give you {{FishPrice}}\ncoin for this one!,i gotta give you {{FishPrice}}\ncoin for this one!,Original,BuyRareFishQuip
-line:9a2691,der/die {{FishName}}!?,the {{FishName}}!?,the {{FishName}}!?,Original,BuyRareFishQuip
+[[F]]line:c96826,ich gebe dir {{FishPrice}}\nMünzen für diese hier!,i gotta give you {{FishPrice}}\ncoin for this one!,i gotta give you {{FishPrice}}\ncoin for this one!,Original,BuyRareFishQuip
+line:9a2691,der {{FishName}}!?,the {{FishName}}!?,the {{FishName}}!?,Original,BuyRareFishQuip
+[[F]]line:9a2691,die {{FishName}}!?,the {{FishName}}!?,the {{FishName}}!?,Original,BuyRareFishQuip
 line:e8eb1e,das ist aber ein spektakulärer Fang!,now that's a spectacular find!,now that's a spectacular find!,Original,BuyRareFishQuip
-line:57e063,ich werde dir {{FishPrice}} Münzen für ihn/sie geben!,i'll give you {{FishPrice}} for it!,i'll give you {{FishPrice}} for it!,Original,BuyRareFishQuip
+line:57e063,ich werde dir {{FishPrice}} Münzen für ihn geben!,i'll give you {{FishPrice}} for it!,i'll give you {{FishPrice}} for it!,Original,BuyRareFishQuip
+[[F]]line:57e063,ich werde dir {{FishPrice}} Münzen für sie geben!,i'll give you {{FishPrice}} for it!,i'll give you {{FishPrice}} for it!,Original,BuyRareFishQuip
 line:231720,WA-WAS!?,WHA-WHAT!?,WHA-WHAT!?,Original,BuyRareFishQuip
-line:cfe338,ich habe LEGENDEN von dem/der\n{{FishName}}\nauf der Falkenspitzeninsel gehört,i've heard LEGENDS of the\n{{FishName}} at hawk peak,i've heard LEGENDS of the\n{{FishName}} at hawk peak,Original,BuyRareFishQuip
+line:cfe338,ich habe LEGENDEN von dem\n{{FishName}}\nauf der Falkenspitzeninsel gehört,i've heard LEGENDS of the\n{{FishName}} at hawk peak,i've heard LEGENDS of the\n{{FishName}} at hawk peak,Original,BuyRareFishQuip
+[[F]]line:cfe338,ich habe LEGENDEN von der\n{{FishName}}\nauf der Falkenspitzeninsel gehört,i've heard LEGENDS of the\n{{FishName}} at hawk peak,i've heard LEGENDS of the\n{{FishName}} at hawk peak,Original,BuyRareFishQuip
 line:19bd98,aber hier ist er...,but here it is...,but here it is...,Original,BuyRareFishQuip
+[[F]]line:19bd98,aber hier ist sie...,but here it is...,but here it is...,Original,BuyRareFishQuip
 line:ba2d62,...vor MEINEN EIGENEN AUGEN!!,...in front of MY VERY OWN EYES!!,...in front of MY VERY OWN EYES!!,Original,BuyRareFishQuip
 line:ca47a0,Claire,claire,claire,Original,BuyRareFishQuip
 line:ece6f1,ich werde dir {{FishPrice}} Münzen\nfür diesen Fang geben,i'll be givin' ya {{FishPrice}}\ncoins for this catch,i'll be givin' ya {{FishPrice}}\ncoins for this catch,Original,BuyRareFishQuip
@@ -3156,57 +3191,57 @@ ISWatch,Armbanduhren,Wristwatches,Item name plural.,,
 IDWatch,"Sie hat ein digitales und ein analoges Display und
 auf der Rückseite steht eine Telefonnummer.","It's got a digital and analog display, and
 has a phone number written on the back.",Item description.,,
-FBluegillFish,Blauer Sonnenbarsch,Bluegill,Fish name.,,
+FBluegillFish,[[M]]Blauer Sonnenbarsch,Bluegill,Fish name.,,
 FIBluegillFish,"Ich hätte fast einen davon
 in der kleinen Bucht am südlichen
 Ende der Insel gefangen.","I almost caught one of these
 in the little bay on the south
 end of the island.","Hint to where the fish is located, written by the fisherman.",,
-FBrookTroutFish,Bachforelle,Brook Trout,,,
+FBrookTroutFish,[[F]]Bachforelle,Brook Trout,,,
 FIBrookTroutFish,Oft zu sehen in tiefblauem oder kaltem Wasser.,Often seen in deep blue or cold waters.,,,
-FBurbotFish,Quappe,Burbot,,,
+FBurbotFish,[[F]]Quappe,Burbot,,,
 FIBurbotFish,"Sie lassen sich nie nieder und bevorzugen es
 in rauschenden Stromschnellen zu leben.","They never settle down and prefer
 to live within the rushing rapids.",,,
-FCarpFish,Flusskarpfen,Common Carp,,,
+FCarpFish,[[M]]Flusskarpfen,Common Carp,,,
 FICarpFish,Er bevorzugt ruhige Flüsse oder tiefblaue Riffe.,They prefer calm rivers or deep blue reefs.,,,
-FCatfishFish,Wels,Catfish,,,
+FCatfishFish,[[M]]Wels,Catfish,,,
 FICatfishFish,Lebt nur in fließenden Gewässern.,Only live in moving waters.,,,
-FChinookSalmonFish,Lachs,Salmon,,,
+FChinookSalmonFish,[[M]]Lachs,Salmon,,,
 FIChinookSalmonFish,"Ich habe sie nur am unteren
 Ende von Flusswasserfällen gesehen.","I've only seen them near the
 bottom of river waterfalls.",,,
-FCrayfishFish,Flusskrebs,Crayfish,,,
+FCrayfishFish,[[M]]Flusskrebs,Crayfish,,,
 FICrayfishFish,"Diese kleinen Jungs leben
 in kleinen Gewässern.","These little guys live
 in little waters.",,,
-FNorthernPikeFish,Hecht,Northern Pike,,,
+FNorthernPikeFish,[[M]]Hecht,Northern Pike,,,
 FINorthernPikeFish,"Bill fängt die immer.
 Er kennt einen guten Platz dafür.","Bill is always catching these.
 He knows a good spot for them.",,,
-FPumpkinSeedFish,Kürbiskernbarsch,Pumpkinseed Fish,,,
+FPumpkinSeedFish,[[M]]Kürbiskernbarsch,Pumpkinseed Fish,,,
 FIPumpkinSeedFish,"Ich habe sie nur in dem
 kleinen Teich mit den Lilien gesehen.","I've only seen them in that
 little pond with the lilies.",,,
-FRainbowTroutFish,Regenbogenforelle,Rainbow Trout,,,
+FRainbowTroutFish,[[F]]Regenbogenforelle,Rainbow Trout,,,
 FIRainbowTroutFish,"Gewöhnlich zu finden
 in tiefblauem Wasser.","Usually found in
 deep blue waters.",,,
-FSpottedBrookTroutFish,Gefleckte Bachforelle,Spotted Brook Trout,,,
+FSpottedBrookTroutFish,[[F]]Gefleckte Bachforelle,Spotted Brook Trout,,,
 FISpottedBrookTroutFish,"Normalerweise seh' ich sie im schattigen
 blauen Wasser, aber sie sind nicht
 schwer zu finden.","I usually see 'em in the shady
 blue waters, but they're not
 hard to find.",,,
-FWhiteBassFish,Weißbarsch,White Bass,,,
+FWhiteBassFish,[[M]]Weißbarsch,White Bass,,,
 FIWhiteBassFish,"Ich habe mir eine Erkältung geholt, als ich
 das letzte Mal nach ihm gesucht habe.","I came down with a cold the last
 time I went looking for them.",,,
-FWhitePerchFish,Weißer Flussbarsch,White Perch,,,
+FWhitePerchFish,[[M]]Weißer Flussbarsch,White Perch,,,
 FIWhitePerchFish,"Bekannt darin ruhiges Flusswasser
 zu bevorzugen.","Known to prefer
 calm river waters.",,,
-FYellowPerchFish,Gelbbarsch,Yellow Perch,,,
+FYellowPerchFish,[[M]]Gelbbarsch,Yellow Perch,,,
 FIYellowPerchFish,"Gewöhnlich gesehen in verkrautetem
 Wasser am Meteorsee.","Usually seen in weedy
 waters in Meteor Lake.",,,
@@ -3396,9 +3431,11 @@ fishCatchAfter,gefangen!,,"Optional text after ""You caught a""",,
 crustacean,Schalentier,crustacean,,,
 fish,Fisch,fish,,,
 Albino,Albino,Albino,,,
-Actually,Eigentliche,Actually,"Used to describe the rare rainbow trout - it's ""Actually"" rainbow colored.",,
+Actually,Eigentlicher,Actually,"Used to describe the rare rainbow trout - it's ""Actually"" rainbow colored.",,
+[[F]]Actually,Eigentliche,Actually,"Used to describe the rare rainbow trout - it's ""Actually"" rainbow colored.",,
 Pink,Rosa,Pink,,,
 Golden,Goldenen,Golden,,,
+[[F]]Golden,Goldene,Golden,,,
 rock bottom,grottenschlecht,rock bottom,The lowest image quality setting,,
 meh,meh,meh,The second lowest quality setting.,,
 okay,okay,okay,The middle setting.,,
@@ -3455,8 +3492,10 @@ rename,umbenennen,rename,,,
 invert,invertieren,invert,,,
 configure,konfigurieren,configure,,,
 itemNameHighlight,{0},{0}!,"Probably leave this as it is. This is used in the item prompt, where it says ""You found a [cool item]!"" The item name and the ! are highlighted, so if your translation requires text after the !, you might want to change this to just {0}",,
-tinyFish,<color=#FFC0CB>Winzige(r)</color>,<color=#FFC0CB>Tiny</color>,,,
-bigFish,<color=yellow>Große(r)</color>,<color=yellow>Big</color>,,,
+tinyFish,<color=#FFC0CB>Winziger</color>,<color=#FFC0CB>Tiny</color>,,,
+[[F]]tinyFish,<color=#FFC0CB>Winzige</color>,<color=#FFC0CB>Tiny</color>,,,
+bigFish,<color=yellow>Großer</color>,<color=yellow>Big</color>,,,
+[[F]]bigFish,<color=yellow>Große</color>,<color=yellow>Big</color>,,,
 minimum,minimum,minimum,The smallest pixel option.,,
 pixelsBig,groß und knackig,big and crunchy,Biggest pixel size.,,
 pixelsMedium,medium roh,medium rare,and so on...,,
