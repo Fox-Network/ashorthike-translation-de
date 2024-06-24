@@ -3518,11 +3518,7 @@ store description,,"Hike, climb, and soar through the peaceful mountainside land
 store short description,,"Hike, climb, and soar through the peaceful mountainside landscapes of Hawk Peak Provincial Park as you make your way to the summit.",200-300 characters,,
 credits5,"Übersetzungen
 <color=#C11>Französisch - Benoit Esmein
-Spanisch - Lisandro Johnston</color>
-<size=8>
-</size>Deutsche Fan-Übersetzung
-<color=#C11>Team Fox Network</color>
-<color=#F82>Flashi, Fuly und Divisor</color>","translations
+Spanisch - Lisandro Johnston</color>","translations
 <color=#C11>french - benoit esmein
 spanish - lisandro johnston</color>",,,
 the end,Ende,the end,Shown just before the credits.,,
@@ -4151,7 +4147,11 @@ AAllPlants,Grüner Daumen,Green Thumb,,,
 ADAllPlants,Bewässere jeden Keimling.,Water every sprout.,,,
 credits6,"Zusätzliche Übersetzungen
 <color=#C11>LocalizeDirect</color>
-<color=#C11>One Hour Translation</color>","additional translation
+<color=#C11>One Hour Translation</color>
+<size=8>
+</size>Deutsche Fan-Übersetzung
+<color=#C11>Team Fox Network</color>
+<color=#F82>Flashi, Fuly und Divisor</color>","additional translation
 <color=#C11>localize direct</color>
 <color=#C11>one hour translation</color>",,,
 APlatinum,Maximaler Urlaub,Vacation Maximized,,,
