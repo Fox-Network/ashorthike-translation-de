@@ -4127,3 +4127,34 @@ line:aaaaa2,<color=red>zieh' den Fisch zu dir</color>\nUND <color=red>tippe {{Us
 fishingRodKeyboardDescription,"Drücke <color=red>{{UseItemButton}}</color> zum Auswerfen. Wenn der Schwimmer
 hinuntergezogen wird, drücke <color=red>{{UseItemButton}}</color> zum Einholen!","Press <color=red>{{UseItemButton}}</color> to cast. When the bobber is pulled
 underwater, press <color=red>{{UseItemButton}}</color> to pull it out!",,,
+portuguese translation,Portugisische Übersetzung,portuguese translation,,,
+noUserNoSaves,Kein aktives Profil.\nFortschritte werden nicht gespeichert.,No profile is active.\nProgress will not be saved.,,,
+noUserLoggedIn,Gastprofil,Guest Profile,,,
+changeUser,Profil wechseln,change profile,,,
+saveSystemFailed,Wegen eines unerwarteten Fehlers\nwerden keien Forschritte gespeichert,Due to an unexpected error\nprogress will not be saved.,,,
+saveError,Beim Speichern ist ein Fehler aufgetreten,An error occurred while saving.,,,
+retrySave,Speichern erneut versuchen,retry save,,,
+dontSave,nicht Speichern,don't save,,,
+noPrimaryUserController,Kein Controller ist für\n{0} verbunden,No controller connected for\n{0},,,
+activeUserSignedOut,Das aktive Profil hat sich ausgeloggt. Bitte loggen Sie sich in das selbe Profil ein.,The active profile has signed out.\nPlease sign in to the same profile.,,,
+activeUserFailedToReturn,Das originale Profil hat sich nicht wieder eingeloggt. Gehe zurück zum Hauptmenü.,The original profile has not signed back in.\nReturning to the title screen.,,,
+AFastBoat,Kein einziger Kratzer,Not A Scratch,,,
+ADFastBoat,Beende den Bootsparkour in unter 45 Sekunden.,"Complete the boating challenge
+in under 45 seconds.",,,
+AExtinguishCampfires,Nur Du Kannst Lagerfeuer verhindern,Only You Can Prevent Campfires,,,
+ADExtinguishCampfires,Lösche 4 Lagerfeuer,Put out 4 campfires.,,,
+additional translation,Zusätzliche Übersetzungen,additional translation,,,
+trophies,Trophäen,trophies,,,
+APhotoTaken,Fotofreunde,Photo Friends,,,
+ADPhotoTaken,Lass' ein Foto von dir machen,Get your photo taken.,,,
+AAllPlants,Grüner Daumen,Green Thumb,,,
+ADAllPlants,Bewässere jeden Keimling.,Water every sprout.,,,
+credits6,"Zusätzliche Übersetzungen
+<color=#C11>LocalizeDirect</color>
+<color=#C11>One Hour Translation</color>","additional translation
+<color=#C11>localize direct</color>
+<color=#C11>one hour translation</color>",,,
+APlatinum,Maximaler Urlaub,Vacation Maximized,,,
+ADPlatinum,Sammle alle anderen Trophäen,Collect every other trophy.,,,
+line:aaaaa3,<color=red>lasse den linken Stecken los</color>\num einen Sturzflug zu beginnen,<color=red>release the left stick</color>\nto dive downward,,,
+SpaceBar,SPACEBAR,SPACE,,,
